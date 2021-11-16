@@ -1,0 +1,22 @@
+.login{
+        background-color:black;
+        color: white;
+        height: 300px;
+        width: 500px;
+        margin-left: 200px;
+        margin-top: 50px;
+        padding-left: 100px; 
+        padding-top: 10px;
+        display: flex;
+    
+    }
+    .login_form{
+        padding-left: 10;
+        margin-top: 10px;
+     
+    }
+    .submit__btn{
+        margin-left: 70px;
+    }
+    
+     
